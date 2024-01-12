@@ -7,7 +7,7 @@ void main() {
       body: Container(
         child: Center(
           child: Image(
-            image: NetworkImage("https://images.indianexpress.com/2023/10/SHAKIB-AL-HASAN-PTI-CROP.jpg"),
+            image: AssetImage("images/zone.png"),
           ),
         ),
       ),
